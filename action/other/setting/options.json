@@ -1,0 +1,55 @@
+{
+"NamaBot":"〔 Ｘᷢ-ＭᷝＯᷫＯᷦＤᷧＳ 〕", 
+"NomorOwner":["6287708357324@s.whatsapp.net","6283110928302@s.whatsapp.net"], 
+"NomorBot":"6283110928302@s.whatsapp.net",
+"TargetPC":"6287708357324@s.whatsapp.net",
+"NamaOwner":"Lord_Rifza",
+"wm":")-----------〔 Ｘᷢ-ＭᷝＯᷫＯᷦＤᷧＳ 〕-----------(",
+"prefix":"#",
+"banchat": false,
+"autoread": false,
+"autoketik": false,
+"autorecording": true,
+"autobio": false,
+"zekais_api":"D6w9YSkr",
+"apikeyss":"a895d24c3f8a422b9a2a5731f99ae7c4",
+"DANGER":{
+      "seru":"[ ❗ ]",
+       "qu":"[ _query_ ]",
+
+        "link":"[ _Masukan linknya❗_ ]",
+         "username":"[ _Username_ ]",
+          "sets":"[ on/off ]",
+           "rc":"[ _reply/caption_ ]",
+            "rt":"[ _reply/tag target_ ]",
+             "rs":"[ _reply sticker_ ]",
+              "nm":"[ nama ]",
+               "tks":"[ _teks_ ]",
+                "vs":"[ _reply gambar/video_ ]",
+                 "gs":"[ _reply gambar/video_ ]",
+                  "ks":"[ _kodebahasa_ _teks_ ]"
+               },
+"donasi":{ 
+     "gopay":"087708357324",
+      "gopayimg":"https://f.top4top.io/p_2252t7a7n1.jpg",
+       "pulsa":"083110928302"
+         },
+"textpro":{
+      "blackpink":"https://textpro.me/create-blackpink-logo-style-online-1001.html",
+       "lightglow":"https://textpro.me/create-light-glow-sliced-text-effect-online-1068.html",      
+        "glass":"https://textpro.me/green-glass-text-effect-910.html",
+        "hoorror_blood":"https://textpro.me/horror-blood-text-effect-online-883.html",
+        "sand":"https://textpro.me/sand-engraved-3d-text-effect-989.html",
+        "magma":"https://textpro.me/create-a-magma-hot-text-effect-online-1030.html",
+        "sketch":"https://textpro.me/create-a-sketch-text-effect-online-1044.html",
+        "batman":"https://textpro.me/make-a-batman-logo-online-free-1066.html",
+        "demon":"https://textpro.me/create-green-horror-style-text-effect-online-1036.html",
+        "ice":"https://textpro.me/ice-cold-text-effect-862.html",
+        "sci_fi":"https://textpro.me/create-3d-sci-fi-text-effect-online-1050.html",
+        "sea_metal":"https://textpro.me/create-3d-deep-sea-metal-text-effect-online-1053.html",
+        "skeleton":"https://textpro.me/create-halloween-skeleton-text-effect-online-1047.html",
+        "transformer":"https://textpro.me/create-a-transformer-text-effect-online-1035.html",
+       "warning":"https://textpro.me/road-warning-text-effect-878.html",
+      "denim":"https://textpro.me/denim-text-effect-online-919.html"
+      }
+}
