@@ -3,21 +3,21 @@
 
 > How to install
 
-$pkg update && pkg upgrade
+> $pkg update && pkg upgrade
 
-$pkg install nodejs
+> $pkg install nodejs
 
-$pkg install libwebp
+> $pkg install libwebp
 
-$pkg install ffmpeg
+> $pkg install ffmpeg
 
-$pkg instalk imagemagick
+> $pkg instalk imagemagick
 
-$git clone https://github.com/Rifza123/XMoods_Yourself-FINAL
+> $git clone https://github.com/Rifza123/XMoods_Yourself-FINAL
 
-$cd XMoods_Yourself-FINAL
+> $cd XMoods_Yourself-FINAL
 
-$npm start
+> $npm start
 
 > SCAN!
 
@@ -38,7 +38,7 @@ $npm start
 #textpromenu
 #randomtext
 
-If you find an error please contact me!
+> If you find an error please contact me!
 wa.me/6287708357324
 
 > ✨Thanks To all creator bot
