@@ -11,7 +11,7 @@
 >
 > $pkg install ffmpeg
 >
-> $pkg instalk imagemagick
+> $pkg install imagemagick
 >
 > $git clone https://github.com/Rifza123/XMoods_Yourself-FINAL
 >
